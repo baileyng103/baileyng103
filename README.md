@@ -50,7 +50,6 @@ A lightweight, interactive web application designed to solve the ultimate dinner
 
 ## 📊 GitHub Analytics
 ![](https://streak-stats.demolab.com/?user=baileyng103&theme=github_dark_dimmed&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=baileyng103&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ---
 
 ## 🤝 Connect with Me
