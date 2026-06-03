@@ -23,7 +23,7 @@ I am a recent Computer Science graduate with a passion for building full-stack a
 ## 📂 Featured Projects
 > 🔒 *Note: Several of my academic projects were developed within a private university organization. Below, I have documented the architecture, my leadership roles, and the project outcomes. Code snippets or walk-throughs are available upon request!*
 
-### 🐾 1. [Kaīkimono Pet Care Game]
+### 🐾 1. Kaīkimono Pet Care Game
 **Role:** Team Lead & Testing Lead | **Tech Stack:** React, Firebase, GitHub Actions
 
 A full-stack, interactive pet care application developed as a senior capstone project with a team of four. 
@@ -31,7 +31,7 @@ A full-stack, interactive pet care application developed as a senior capstone pr
 * **Challenges Overcome:** Optimized database queries in Firebase to handle real-time state updates for pet attributes without causing UI lag.
 * 🔗 **[View Hosted Application](https://kaikimono.web.app/)**
 
-### 🤖 2. [Project Name - e.g., Robot Arm Base Design & Automation]
+### 🤖 2. Robot Arm Base Design & Automation
 **Role:** Collaborator / Developer | **Tech Stack:** C++, Hardware Integration
 
 A hardware-software integration project focused on precision robotics blended with real-world modern art.
@@ -50,7 +50,7 @@ A lightweight, interactive web application designed to solve the ultimate dinner
 
 ## 📊 GitHub Analytics
 ![baileyng103's GitHub stats](https://github-readme-stats.vercel.app/api?username=baileyng103&show_icons=true&theme=radical)
-
+<img src="https://myreadme.vercel.app/api/embed/baileyng103?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baileyng103&layout=compact&theme=radical)
 
 ---
