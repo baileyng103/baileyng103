@@ -1,6 +1,6 @@
 # Hi there, I'm Bailey! 👋
 
-### 🚀 Software Engineer & Project Leader
+### Software Engineer & Project Leader
 I am a recent Computer Science graduate with a passion for building full-stack applications, managing agile workflows, and developing engaging software solutions. I love bridging the gap between clean code and effective project management.
 
 - 🛠️ **Current Focus:** Diving into Microsoft Azure.
