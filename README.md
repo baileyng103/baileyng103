@@ -39,23 +39,22 @@ A hardware-software integration project focused on precision robotics blended wi
 * **Core Feature:** Integrated automated safety boundaries to prevent mechanical strain during execution.
 * 🔗 **[View Project Video](https://photos.app.goo.gl/TZMqY8RRU5spJNCC8)**
 
-### 🎮 3. [Project Name - e.g., Esports Organization Management Dashboard]
-**Role:** Sole Developer | **Tech Stack:** Java, Notion API
+### 🍕 3. Pizza Topping Spinner
+**Role:** Sole Developer | **Tech Stack:** HTML5, CSS3, JavaScript (ES6)
 
-A custom workflow automation tool designed to manage schedules, player rosters, and logistics for a multi-team esports ecosystem.
-* **Key Contributions:** Built a Java-based middleware that syncs player performance data directly into a structured Notion database, saving hours of manual administration weekly.
-* 🔗 **[View Repository Link]**
-
+A lightweight, interactive web application designed to solve the ultimate dinner dilemma by randomly selecting and combining pizza toppings.
+* **Key Contributions:** Built a smooth, physics-based rotation animation using CSS transitions and pure JavaScript, and implemented custom state logic to allow users to create custom toppings along with the native list of common choices.
+* **Core Feature:** Designed a clean, fully responsive UI with seamless input handling so users can dynamically add or remove custom ingredients from the wheel.
+* 🔗 **[View Hosted Web App](https://baileyng103.github.io/Toppick/#/)**
 ---
 
 ## 📊 GitHub Analytics
-*(Optional: These dynamic cards will automatically pull your public GitHub stats. Just replace `YOUR_USERNAME` with your actual GitHub username!)*
-
 ![baileyng103's GitHub stats](https://github-readme-stats.vercel.app/api?username=baileyng103&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baileyng103&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Connect with Me
-- 💼 **LinkedIn:** [link-to-your-profile]
-- 📧 **Email:** [your-email@example.com]
+- 💼 **LinkedIn:** [www.linkedin.com/in/bailey-goodrich](www.linkedin.com/in/bailey-goodrich)
+- 📧 **Email:** [baileyng103@gmail.com](baileyng103@gmail.com)
