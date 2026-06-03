@@ -49,10 +49,8 @@ A lightweight, interactive web application designed to solve the ultimate dinner
 ---
 
 ## 📊 GitHub Analytics
-![baileyng103's GitHub stats](https://github-readme-stats.vercel.app/api?username=baileyng103&show_icons=true&theme=radical)
-<img src="https://myreadme.vercel.app/api/embed/baileyng103?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baileyng103&layout=compact&theme=radical)
-
+![](https://streak-stats.demolab.com/?user=baileyng103&theme=github_dark_dimmed&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=baileyng103&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ---
 
 ## 🤝 Connect with Me
